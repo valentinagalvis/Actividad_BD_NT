@@ -1,0 +1,26 @@
+{
+  "name": "actividad_bd_nt",
+  "version": "1.0.0",
+  "description": "Actividad de bases de datos nuevas tecnologías entrega 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentinagalvis/Actividad_BD_NT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valentinagalvis/Actividad_BD_NT/issues"
+  },
+  "homepage": "https://github.com/valentinagalvis/Actividad_BD_NT#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2"
+  }
+}
